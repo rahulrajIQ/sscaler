@@ -53,3 +53,5 @@ ca2.get_details()
 ca1.mf.get_brands()
 ca2.mf.get_brands()
 
+
+
